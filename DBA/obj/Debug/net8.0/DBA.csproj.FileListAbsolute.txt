@@ -1,0 +1,17 @@
+C:\devlop\test\DBA\obj\Debug\net8.0\DBA.csproj.AssemblyReference.cache
+C:\devlop\test\DBA\obj\Debug\net8.0\DBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\devlop\test\DBA\obj\Debug\net8.0\DBA.AssemblyInfoInputs.cache
+C:\devlop\test\DBA\obj\Debug\net8.0\DBA.AssemblyInfo.cs
+C:\devlop\test\DBA\obj\Debug\net8.0\DBA.csproj.CoreCompileInputs.cache
+C:\devlop\test\DBA\bin\Debug\net8.0\DBA.deps.json
+C:\devlop\test\DBA\bin\Debug\net8.0\DBA.runtimeconfig.json
+C:\devlop\test\DBA\bin\Debug\net8.0\DBA.dll
+C:\devlop\test\DBA\bin\Debug\net8.0\DBA.pdb
+C:\devlop\test\DBA\bin\Debug\net8.0\Shared.dll
+C:\devlop\test\DBA\bin\Debug\net8.0\Shared.pdb
+C:\devlop\test\DBA\obj\Debug\net8.0\DBA.csproj.Up2Date
+C:\devlop\test\DBA\obj\Debug\net8.0\DBA.dll
+C:\devlop\test\DBA\obj\Debug\net8.0\refint\DBA.dll
+C:\devlop\test\DBA\obj\Debug\net8.0\DBA.pdb
+C:\devlop\test\DBA\obj\Debug\net8.0\DBA.genruntimeconfig.cache
+C:\devlop\test\DBA\obj\Debug\net8.0\ref\DBA.dll

@@ -1,0 +1,7 @@
+C:\devlop\test\WindowsService1\bin\Release\WindowsService1.exe.config
+C:\devlop\test\WindowsService1\bin\Release\WindowsService1.exe
+C:\devlop\test\WindowsService1\bin\Release\WindowsService1.pdb
+C:\devlop\test\WindowsService1\obj\Release\WindowsService1.csproj.AssemblyReference.cache
+C:\devlop\test\WindowsService1\obj\Release\WindowsService1.csproj.CoreCompileInputs.cache
+C:\devlop\test\WindowsService1\obj\Release\WindowsService1.exe
+C:\devlop\test\WindowsService1\obj\Release\WindowsService1.pdb
