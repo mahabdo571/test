@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\devlop\\test\\WebApplication1\\API.csproj": {}
+    "C:\\Programming works\\test\\WebApplication1\\API.csproj": {}
   },
   "projects": {
-    "C:\\devlop\\test\\bus\\BUS.csproj": {
+    "C:\\Programming works\\test\\bus\\BUS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devlop\\test\\bus\\BUS.csproj",
+        "projectUniqueName": "C:\\Programming works\\test\\bus\\BUS.csproj",
         "projectName": "BUS",
-        "projectPath": "C:\\devlop\\test\\bus\\BUS.csproj",
+        "projectPath": "C:\\Programming works\\test\\bus\\BUS.csproj",
         "packagesPath": "C:\\Users\\mahab\\.nuget\\packages\\",
-        "outputPath": "C:\\devlop\\test\\bus\\obj\\",
+        "outputPath": "C:\\Programming works\\test\\bus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\devlop\\test\\DBA\\DBA.csproj": {
-                "projectPath": "C:\\devlop\\test\\DBA\\DBA.csproj"
+              "C:\\Programming works\\test\\DBA\\DBA.csproj": {
+                "projectPath": "C:\\Programming works\\test\\DBA\\DBA.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\devlop\\test\\DBA\\DBA.csproj": {
+    "C:\\Programming works\\test\\DBA\\DBA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devlop\\test\\DBA\\DBA.csproj",
+        "projectUniqueName": "C:\\Programming works\\test\\DBA\\DBA.csproj",
         "projectName": "DBA",
-        "projectPath": "C:\\devlop\\test\\DBA\\DBA.csproj",
+        "projectPath": "C:\\Programming works\\test\\DBA\\DBA.csproj",
         "packagesPath": "C:\\Users\\mahab\\.nuget\\packages\\",
-        "outputPath": "C:\\devlop\\test\\DBA\\obj\\",
+        "outputPath": "C:\\Programming works\\test\\DBA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\devlop\\test\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\devlop\\test\\Shared\\Shared.csproj"
+              "C:\\Programming works\\test\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Programming works\\test\\Shared\\Shared.csproj"
               }
             }
           }
@@ -188,14 +188,14 @@
         }
       }
     },
-    "C:\\devlop\\test\\Shared\\Shared.csproj": {
+    "C:\\Programming works\\test\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devlop\\test\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Programming works\\test\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\devlop\\test\\Shared\\Shared.csproj",
+        "projectPath": "C:\\Programming works\\test\\Shared\\Shared.csproj",
         "packagesPath": "C:\\Users\\mahab\\.nuget\\packages\\",
-        "outputPath": "C:\\devlop\\test\\Shared\\obj\\",
+        "outputPath": "C:\\Programming works\\test\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -254,14 +254,14 @@
         }
       }
     },
-    "C:\\devlop\\test\\WebApplication1\\API.csproj": {
+    "C:\\Programming works\\test\\WebApplication1\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\devlop\\test\\WebApplication1\\API.csproj",
+        "projectUniqueName": "C:\\Programming works\\test\\WebApplication1\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\devlop\\test\\WebApplication1\\API.csproj",
+        "projectPath": "C:\\Programming works\\test\\WebApplication1\\API.csproj",
         "packagesPath": "C:\\Users\\mahab\\.nuget\\packages\\",
-        "outputPath": "C:\\devlop\\test\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Programming works\\test\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -283,8 +283,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\devlop\\test\\bus\\BUS.csproj": {
-                "projectPath": "C:\\devlop\\test\\bus\\BUS.csproj"
+              "C:\\Programming works\\test\\bus\\BUS.csproj": {
+                "projectPath": "C:\\Programming works\\test\\bus\\BUS.csproj"
               }
             }
           }

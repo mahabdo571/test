@@ -15,3 +15,21 @@ C:\devlop\test\DBA\obj\Debug\net8.0\refint\DBA.dll
 C:\devlop\test\DBA\obj\Debug\net8.0\DBA.pdb
 C:\devlop\test\DBA\obj\Debug\net8.0\DBA.genruntimeconfig.cache
 C:\devlop\test\DBA\obj\Debug\net8.0\ref\DBA.dll
+C:\Programming works\test\DBA\bin\Debug\net8.0\DBA.deps.json
+C:\Programming works\test\DBA\bin\Debug\net8.0\DBA.runtimeconfig.json
+C:\Programming works\test\DBA\bin\Debug\net8.0\DBA.dll
+C:\Programming works\test\DBA\bin\Debug\net8.0\DBA.pdb
+C:\Programming works\test\DBA\bin\Debug\net8.0\Shared.dll
+C:\Programming works\test\DBA\bin\Debug\net8.0\Shared.pdb
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.csproj.AssemblyReference.cache
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.AssemblyInfoInputs.cache
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.AssemblyInfo.cs
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.csproj.CoreCompileInputs.cache
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.sourcelink.json
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.csproj.Up2Date
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.dll
+C:\Programming works\test\DBA\obj\Debug\net8.0\refint\DBA.dll
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.pdb
+C:\Programming works\test\DBA\obj\Debug\net8.0\DBA.genruntimeconfig.cache
+C:\Programming works\test\DBA\obj\Debug\net8.0\ref\DBA.dll

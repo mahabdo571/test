@@ -22,11 +22,14 @@ namespace Shared.DTOs
 
         [Required(ErrorMessage = "Password field is required.")]   
         [Display(Name = "Password")]
+        [StringLength(30, ErrorMessage = "Password must be between 6 and 30 characters.", MinimumLength = 6)]
         public string Password { get; set; }
 
         [Required(ErrorMessage = "Password Confirm field is required.")]
         [Display(Name = "Password Confirm")]
         [Compare("Password", ErrorMessage = "The password and confirmation password do not match.")]
+        [StringLength(30, ErrorMessage = "Password must be between 6 and 30 characters.", MinimumLength = 6)]
+
         public string PasswordConfirm { get; set; }
     }
 }

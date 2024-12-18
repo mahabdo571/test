@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\devlop\\test\\Shared\\Shared.csproj",
+      "projectUniqueName": "C:\\Programming works\\test\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "C:\\devlop\\test\\Shared\\Shared.csproj",
+      "projectPath": "C:\\Programming works\\test\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\mahab\\.nuget\\packages\\",
-      "outputPath": "C:\\devlop\\test\\Shared\\obj\\",
+      "outputPath": "C:\\Programming works\\test\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

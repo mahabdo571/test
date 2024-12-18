@@ -38,10 +38,10 @@ builder.Services.AddAuthentication(auth =>
     {
         ValidateIssuer = true,
         ValidateAudience = true,
-        ValidAudience = "",
-        ValidIssuers = [],
+        ValidAudience = builder.Configuration["AuthSettings:Audience"],
+        ValidIssuer = builder.Configuration["AuthSettings:Issuer"] ,
         RequireExpirationTime=true,
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("key")),
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["AuthSettings:Key"]!)),
         ValidateIssuerSigningKey =true
 
 

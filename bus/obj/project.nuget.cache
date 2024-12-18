@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ii6XhTMcCCI=",
+  "dgSpecHash": "tZsog2fPfu0=",
   "success": true,
-  "projectFilePath": "C:\\devlop\\test\\bus\\BUS.csproj",
+  "projectFilePath": "C:\\Programming works\\test\\bus\\BUS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mahab\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\mahab\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

@@ -11,5 +11,6 @@ namespace DBA.Repo.IRepo
     public interface IUserRepo
     {
       Task<UserManagerResponse> RegisterUserRepoAsync(Users model, string password);
+        Task<UserManagerResponse> LoginUserAsync(Users model, string password);
     }
 }

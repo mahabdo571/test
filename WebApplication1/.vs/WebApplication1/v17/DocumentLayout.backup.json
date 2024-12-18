@@ -1,9 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\devlop\\test\\WebApplication1\\",
+  "WorkspaceRootPath": "C:\\Programming works\\test\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A32B60F3-129F-42AC-B1EA-E58467A01D30}|..\\bus\\bus.csproj|c:\\devlop\\test\\bus\\config\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C3578759-011F-4FCA-B04A-720B3EA66E55}|..\\DBA\\DBA.csproj|c:\\programming works\\test\\dba\\designtimedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11CD8D-B324-4784-9F0A-AA7360122D3F}|API.csproj|c:\\programming works\\test\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF11CD8D-B324-4784-9F0A-AA7360122D3F}|API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A32B60F3-129F-42AC-B1EA-E58467A01D30}|..\\bus\\BUS.csproj|c:\\programming works\\test\\bus\\config\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF11CD8D-B324-4784-9F0A-AA7360122D3F}|API.csproj|c:\\programming works\\test\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF11CD8D-B324-4784-9F0A-AA7360122D3F}|API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,14 +29,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\devlop\\test\\bus\\config\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "..\\bus\\config\\MappingProfile.cs",
-              "ToolTip": "C:\\devlop\\test\\bus\\config\\MappingProfile.cs",
-              "RelativeToolTip": "..\\bus\\config\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "DesignTimeDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Programming works\\test\\DBA\\DesignTimeDbContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\DBA\\DesignTimeDbContextFactory.cs",
+              "ToolTip": "C:\\Programming works\\test\\DBA\\DesignTimeDbContextFactory.cs",
+              "RelativeToolTip": "..\\DBA\\DesignTimeDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-17T13:10:16.651Z",
+              "WhenOpened": "2024-12-18T15:06:45.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Programming works\\test\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Programming works\\test\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T15:04:01.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Programming works\\test\\bus\\config\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "..\\bus\\config\\MappingProfile.cs",
+              "ToolTip": "C:\\Programming works\\test\\bus\\config\\MappingProfile.cs",
+              "RelativeToolTip": "..\\bus\\config\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T15:02:46.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Programming works\\test\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Programming works\\test\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwDQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:57:55.521Z",
               "EditorCaption": ""
             }
           ]

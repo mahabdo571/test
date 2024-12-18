@@ -47,5 +47,37 @@ namespace API.Controllers
                 return StatusCode(StatusCodes.Status500InternalServerError, $"An error .  {ex.Message}");
             }
         }
+
+        [HttpPost("Login")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status500InternalServerError)]
+        public async Task<IActionResult> Login([FromBody] LoginDTO model)
+        {
+            if (!ModelState.IsValid)
+            {
+                return BadRequest("Bad Data");
+            }
+
+            if (model is null)
+                return BadRequest("Model is Null");
+
+            try
+            {
+
+                var result = await _userService.LoginUserAsync(model);
+
+                if (result.IsSuccess)
+                    return Ok(result);
+
+                return BadRequest(result);
+
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status500InternalServerError, $"An error .  {ex.Message}");
+            }
+        }
+
     }
 }

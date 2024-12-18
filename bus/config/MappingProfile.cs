@@ -15,6 +15,7 @@ namespace BUS.config
 
         {
             CreateMap<Users, RegisterDTO>().ReverseMap();
+            CreateMap<Users, LoginDTO>().ReverseMap();
         }
     }
 }

@@ -9,3 +9,15 @@ C:\devlop\test\Shared\obj\Debug\net8.0\Shared.dll
 C:\devlop\test\Shared\obj\Debug\net8.0\refint\Shared.dll
 C:\devlop\test\Shared\obj\Debug\net8.0\Shared.pdb
 C:\devlop\test\Shared\obj\Debug\net8.0\ref\Shared.dll
+C:\Programming works\test\Shared\bin\Debug\net8.0\Shared.deps.json
+C:\Programming works\test\Shared\bin\Debug\net8.0\Shared.dll
+C:\Programming works\test\Shared\bin\Debug\net8.0\Shared.pdb
+C:\Programming works\test\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming works\test\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+C:\Programming works\test\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+C:\Programming works\test\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+C:\Programming works\test\Shared\obj\Debug\net8.0\Shared.sourcelink.json
+C:\Programming works\test\Shared\obj\Debug\net8.0\Shared.dll
+C:\Programming works\test\Shared\obj\Debug\net8.0\refint\Shared.dll
+C:\Programming works\test\Shared\obj\Debug\net8.0\Shared.pdb
+C:\Programming works\test\Shared\obj\Debug\net8.0\ref\Shared.dll

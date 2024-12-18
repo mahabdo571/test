@@ -11,6 +11,8 @@ namespace BUS.Services.IServices
     public interface IUserService
     {
         Task<UserManagerResponse> RegisterUserAsync(RegisterDTO mopdel);
-       
+        Task<UserManagerResponse> LoginUserAsync(LoginDTO model);
+
+
     }
 }

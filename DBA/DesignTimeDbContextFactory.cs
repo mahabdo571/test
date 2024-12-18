@@ -14,6 +14,7 @@ namespace DBA
 
             var configuration = new ConfigurationBuilder()
                 .SetBasePath(@"C:\devlop\test\WebApplication1\bin\Release\net8.0")
+               // .SetBasePath(@"C:\Programming works\test\WebApplication1\bin\Debug\net8.0") // laptop
 
                 .AddJsonFile("appsettings.json")
                 .Build();
